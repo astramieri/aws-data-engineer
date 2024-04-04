@@ -10,7 +10,7 @@ Introduction
 
 Fundamentals
 
-
+- [Data Engineering](./docs/02_fundamentals/data_engineering.md)
 
 ## Links
 
